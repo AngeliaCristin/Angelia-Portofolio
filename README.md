@@ -8,4 +8,4 @@ Nama: Angelia Cristin
 
 Link Website:
 
-https://angeliacristin.github.io/PemrogramanWeb_WebPortofolio/
+https://angeliacristin.github.io/CapstoneWeb1---MyPortofolio/
